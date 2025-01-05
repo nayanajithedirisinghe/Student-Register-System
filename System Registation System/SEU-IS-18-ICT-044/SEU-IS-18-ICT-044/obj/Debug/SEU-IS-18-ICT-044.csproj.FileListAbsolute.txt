@@ -1,0 +1,10 @@
+C:\Users\CS COMPUTER\Desktop\savi\CA-2\SEU-IS-18-ICT-044\SEU-IS-18-ICT-044\obj\Debug\SEU-IS-18-ICT-044.csproj.AssemblyReference.cache
+C:\Users\CS COMPUTER\Desktop\savi\CA-2\SEU-IS-18-ICT-044\SEU-IS-18-ICT-044\obj\Debug\SEU_IS_18_ICT_044.Form1.resources
+C:\Users\CS COMPUTER\Desktop\savi\CA-2\SEU-IS-18-ICT-044\SEU-IS-18-ICT-044\obj\Debug\SEU_IS_18_ICT_044.Properties.Resources.resources
+C:\Users\CS COMPUTER\Desktop\savi\CA-2\SEU-IS-18-ICT-044\SEU-IS-18-ICT-044\obj\Debug\SEU-IS-18-ICT-044.csproj.GenerateResource.cache
+C:\Users\CS COMPUTER\Desktop\savi\CA-2\SEU-IS-18-ICT-044\SEU-IS-18-ICT-044\obj\Debug\SEU-IS-18-ICT-044.csproj.CoreCompileInputs.cache
+C:\Users\CS COMPUTER\Desktop\savi\CA-2\SEU-IS-18-ICT-044\SEU-IS-18-ICT-044\bin\Debug\SEU-IS-18-ICT-044.exe.config
+C:\Users\CS COMPUTER\Desktop\savi\CA-2\SEU-IS-18-ICT-044\SEU-IS-18-ICT-044\bin\Debug\SEU-IS-18-ICT-044.exe
+C:\Users\CS COMPUTER\Desktop\savi\CA-2\SEU-IS-18-ICT-044\SEU-IS-18-ICT-044\bin\Debug\SEU-IS-18-ICT-044.pdb
+C:\Users\CS COMPUTER\Desktop\savi\CA-2\SEU-IS-18-ICT-044\SEU-IS-18-ICT-044\obj\Debug\SEU-IS-18-ICT-044.exe
+C:\Users\CS COMPUTER\Desktop\savi\CA-2\SEU-IS-18-ICT-044\SEU-IS-18-ICT-044\obj\Debug\SEU-IS-18-ICT-044.pdb
